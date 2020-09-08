@@ -1,0 +1,4 @@
+<% if user_signed_in? %>
+    <h2>Olá, <%= current_user.email %>!</h2>
+    <%= link_to "Início", root_path %>
+<% end %>    
