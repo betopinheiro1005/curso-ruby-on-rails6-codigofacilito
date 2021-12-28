@@ -15,7 +15,7 @@
 bundle install
 ```
 
-### Lista de aulas - <a href="https://codigofacilito.com/cursos/introduccion-rails" target="_blank">Vídeos do curso</a>
+### Lista de aulas - [Vídeos do curso](https://codigofacilito.com/cursos/introduccion-rails)
 
 Aula 01 - Instalação  
 Aula 02 - Primeiros passos  
