@@ -1,7 +1,7 @@
 # CURSO DE INTRODUÇÃO AO RUBY ON RAILS 
 ## CodigoFacilito (Uriel Hernandez)
 
-### [Vídeos do curso](https://codigofacilito.com/videos/crear-proyecto-de-ruby-on-rails)
+### [Vídeos do curso](https://codigofacilito.com/cursos/introduccion-rails)
 
 ### Lista de aulas  
 
